@@ -5,7 +5,9 @@ This library is an adaptation of [RecyclerView.Adapter](http://developer.android
 ### Usage
 ---
 To add the library to your project, just include the following dependency in your build.gradle file:
-`compile 'com.androidessence:recyclerviewcursoradapter:1.0.0'`
+```java
+compile 'com.androidessence:recyclerviewcursoradapter:1.0.0'
+```
 
 ### Implementation
 ---
