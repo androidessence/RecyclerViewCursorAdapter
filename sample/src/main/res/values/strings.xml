@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView CursorAdapter</string>
+    <string name="action_settings">Settings</string>
+    <string name="single_view_holder_sample">Single ViewHolder Sample</string>
+</resources>
