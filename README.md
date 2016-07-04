@@ -21,6 +21,10 @@ Use the `swapCursor()` function to exchange the data inside the Adapter. This ca
 
 Currently there is support to easily control a RecyclerViewCursorAdapter that uses a single ViewHolder. However, nothing restricts the user from using multiple View types; Just don't use `setupCursorAdapter()` and instead instantiate the CursorAdapter in your own way and adjust onBindViewHolder and onCreateViewHolder accordingly.
 
+### Inspiration
+---
+Inspiration for this library came from a beautiful [StackOverflow answer](http://stackoverflow.com/a/27732748/3131147) by user [nbtk](http://stackoverflow.com/users/1371730/nbtk).
+
 ### Contributors
 ---
 [Adam McNeilly](http://github.com/AdamMc331)
